@@ -434,7 +434,7 @@ aside.container {
 }
 
 .slides2 {
-    width: 300%; /* 6000/16 */ /*375em*/
+    width: 500%; /* 6000/16 */ /*375em*/
     height: auto;
     display: flex;
     margin: 0;
